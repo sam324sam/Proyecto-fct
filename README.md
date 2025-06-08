@@ -1,2 +1,0 @@
-# Proyecto-fct
-Proyecto-fct
